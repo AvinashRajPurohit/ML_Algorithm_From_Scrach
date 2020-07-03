@@ -1,8 +1,8 @@
-For More Post of Data science Click here[Data_Science_Blogs](https://datascienceblogs.herokuapp.com/).
+For More Post of Data science Click here [**Data_Science_Blogs**](https://datascienceblogs.herokuapp.com/).
 # ML_Algorithm_From_Scrach
 This repository will contain all the basic algorithm from scrach in python with blog which contain explaination of algorithm
 ## Description Of All The Algos
-**K-Nearest Neighbors Algorithm**
+### K-Nearest Neighbors Algorithm
 In wiki "In pattern recognition, the k-nearest neighbor algorithm is a non-parametric method proposed by Thomas Cover used for classification and regression."
 
 In this post suppose we are doing sentiment classification of  Amazon fine-food reviews using KNN.
