@@ -65,9 +65,9 @@ Let suppose we have a list of n elements = d[] = [1.2, 3.3, 5.3, 1.2, 23]
                        -------> python->unif  = np.random.uniform(0.0,1.0,1)
 
 ## 3.Step-3 => now compare 'unif' value with each value in d_tilda and if unif is less than d_tilda value than return the value of d_tilda.
-                          -------->   for i in d_tilda:
-                                                 ------------>if unif <= i:
-                                                        ----------------->return i
+                             for i in d_tilda:
+                                  if unif <= i:
+                                      return i
 
 ## GitHub code for proportional sampling-:
 ----> https://github.com/AvinashRajPurohit/ML_Algorithm_From_Scrach/blob/master/2.Perportional_Sampling_Algo.ipynb
